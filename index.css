@@ -292,14 +292,14 @@ li {
     font-family: Roboto;
     font-size: 35px;
     margin-top: 40px;
-    margin-left: 80px;
+    margin-left: 120px;
 }
 #day {
     font-weight: bold;
     font-family: Roboto;
     font-size: 25px;
     margin-top: -45px;
-    margin-left: 20px;
+    margin-left: 40px;
 
 }
 #time {
@@ -307,7 +307,7 @@ li {
     font-family: Roboto;
     font-size: 25px;
     margin-top: -40px;
-    margin-left: 120px;
+    margin-left: 160px;
 }
 
 /* ////////////// Độ âm ////////////// */
